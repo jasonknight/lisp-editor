@@ -12,6 +12,7 @@
 <script src="/CodeMirror/mode/javascript/javascript.js"></script>
 
 <div id=nav>
+  <h3>This project proudly uses:</h3>
   <a href="http://codemirror.net"><h1>CodeMirror</h1><img id=logo src="/CodeMirror/doc/logo.png"></a>
 
   <ul>
