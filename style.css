@@ -129,6 +129,31 @@ section.first {
   border: none;
   margin-top: 0;
 }
+.rel {
+  margin-bottom: 0;
+}
+.rel-note {
+  margin-top: 0;
+  color: #555;
+}
+
+pre {
+  padding-left: 15px;
+  border-left: 2px solid #ddd;
+}
+
+code {
+  padding: 0 2px;
+}
+
+strong {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.field {
+  border: 1px solid #A21313;
+}
 
 body {
 	font-size: 1em;

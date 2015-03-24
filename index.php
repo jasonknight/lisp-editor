@@ -23,7 +23,7 @@
 
 <article>
 <h2>Autocomplete Demo</h2>
-<form><textarea id="code" name="code">
+<form><textarea id="code" name="code" rows="50" cols="65">
 
 </textarea></form>
 
