@@ -2,7 +2,7 @@
 
 <title>CodeMirror: Autocomplete Demo</title>
 <meta charset="utf-8"/>
-<link rel="syltesheet" href="/style.css" />
+<link rel="stylesheet" href="/style.css" />
 <link rel="stylesheet" href="/CodeMirror/lib/codemirror.css">
 <link rel="stylesheet" href="/CodeMirror/addon/hint/show-hint.css">
 <script src="/CodeMirror/lib/codemirror.js"></script>
