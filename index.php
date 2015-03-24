@@ -2,22 +2,22 @@
 
 <title>CodeMirror: Autocomplete Demo</title>
 <meta charset="utf-8"/>
-<link rel=stylesheet href="CodeMirror/doc/docs.css">
+<link rel=stylesheet href="/CodeMirror/doc/docs.css">
 
-<link rel="stylesheet" href="CodeMirror/lib/codemirror.css">
-<link rel="stylesheet" href="CodeMirror/addon/hint/show-hint.css">
-<script src="CodeMirror/lib/codemirror.js"></script>
-<script src="CodeMirror/addon/hint/show-hint.js"></script>
-<script src="CodeMirror/addon/hint/javascript-hint.js"></script>
-<script src="CodeMirror/mode/javascript/javascript.js"></script>
+<link rel="stylesheet" href="/CodeMirror/lib/codemirror.css">
+<link rel="stylesheet" href="/CodeMirror/addon/hint/show-hint.css">
+<script src="/CodeMirror/lib/codemirror.js"></script>
+<script src="/CodeMirror/addon/hint/show-hint.js"></script>
+<script src="/CodeMirror/addon/hint/javascript-hint.js"></script>
+<script src="/CodeMirror/mode/javascript/javascript.js"></script>
 
 <div id=nav>
-  <a href="http://codemirror.net"><h1>CodeMirror</h1><img id=logo src="CodeMirror/doc/logo.png"></a>
+  <a href="http://codemirror.net"><h1>CodeMirror</h1><img id=logo src="/CodeMirror/doc/logo.png"></a>
 
   <ul>
     <li><a href="index.php">Home</a>
-    <li><a href="CodeMirror/doc/manual.html">Manual</a>
-    <li><a href="https://github.com/codemirror/codemirror">Code</a>
+    <li><a href="/CodeMirror/doc/manual.html">Manual</a>
+    <li><a href="https://github.com//CodeMirror/codemirror">Code</a>
   </ul>
   <ul>
     <li><a class=active href="#">Autocomplete</a>
@@ -65,8 +65,8 @@ function getCompletions(token, context) {
 </textarea></form>
 
 <p>Press <strong>ctrl-space</strong> to activate autocompletion. Built
-on top of the <a href="CodeMirror/doc/manual.html#addon_show-hint"><code>show-hint</code></a>
-and <a href="CodeMirror/doc/manual.html#addon_javascript-hint"><code>javascript-hint</code></a>
+on top of the <a href="/CodeMirror/doc/manual.html#addon_show-hint"><code>show-hint</code></a>
+and <a href="/CodeMirror/doc/manual.html#addon_javascript-hint"><code>javascript-hint</code></a>
 addons.</p>
 
     <script>
