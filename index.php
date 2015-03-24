@@ -3,7 +3,7 @@
 <title>CodeMirror: Autocomplete Demo</title>
 <meta charset="utf-8"/>
 <link rel=stylesheet href="/CodeMirror/doc/docs.css">
-
+<link rel="syltesheet" href="style.css" />
 <link rel="stylesheet" href="/CodeMirror/lib/codemirror.css">
 <link rel="stylesheet" href="/CodeMirror/addon/hint/show-hint.css">
 <script src="/CodeMirror/lib/codemirror.js"></script>
@@ -19,9 +19,6 @@
     <li><a href="index.php">Home</a>
     <li><a href="/CodeMirror/doc/manual.html">Manual</a>
     <li><a href="https://github.com//CodeMirror/codemirror">Code</a>
-  </ul>
-  <ul>
-    <li><a class=active href="#">Autocomplete</a>
   </ul>
 </div>
 
