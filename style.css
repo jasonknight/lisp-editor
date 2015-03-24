@@ -22,7 +22,6 @@ article > h2:first-child, section:first-child > h2 { margin-top: 0; }
   margin-right: 12px;
   margin-top: 0;
   margin-bottom: 2px;
-  color: #d30707;
   letter-spacing: .5px;
 }
 
@@ -45,7 +44,6 @@ article {
   border-left: 2px solid #E30808;
   border-right: 1px solid #ddd;
   padding: 30px 50px 100px 50px;
-  background: white;
   z-index: 2;
   position: relative;
   min-height: 100%;
